@@ -5,6 +5,7 @@ import re
 import streamlit as st
 import wikipedia
 import openai
+from langchain_groq import ChatGroq
 
 # Set your OpenAI API Key
 openai.api_key = "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"
