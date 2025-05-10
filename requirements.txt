@@ -1,5 +1,5 @@
 pysqlite3-binary
-re
-streamlit>=1.25.0   
-openai>=0.0.0
-wikipedia>=0.0.0
+langchain_groq
+streamlit
+openai
+wikipedia
