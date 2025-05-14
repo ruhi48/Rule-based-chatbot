@@ -57,7 +57,7 @@ def rule_based_chatbot(user_input):
         return "I'm sorry, I couldn't find an answer. Could you rephrase or ask something else?"
 
 # Streamlit UI
-st.title("Universal Question-Answering Chatbot")
+st.title("Rule-Based Chatbot by Ruhi")
 st.write("Ask me anything, and I'll do my best to answer using rule-based logic, Wikipedia, and GPT!")
 
 # User input
